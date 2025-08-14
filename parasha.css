@@ -1,12 +1,54 @@
 body{
-    background-color: aqua;
-}
-marquee{
-    background-color: brown;
-    font-size: 25px;
-    color: gold;
-    position: fixed;
-}
+            background-color: gold;
+        }
+        marquee{
+            background-color: brown;
+            color: aliceblue;
+            position: fixed;
+            font-size: 25px;
+        }
+        .limenu{
+            position: fixed;
+            width: fit-content;
+            padding: 10px;
+            background-color: brown;
+            color: aliceblue;
+            border-radius: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        .canal{
+            display: none;
+            position: fixed;
+            background-color: brown;
+            color: aliceblue;
+            width: 220px;
+            padding: 10px;
+            margin-top: 48px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .canal1{
+            display: none;
+            position: fixed;
+            background-color: brown;
+            color: aliceblue;
+            width: 220px;
+            padding: 10px;
+            margin-top: 56px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .aud{
+            position: fixed;
+            margin-top: -80px;
+        }
+        .visu{
+            position: fixed;
+            margin-left: 30%;
+            margin-top: -20px;
+        }
 p{
     font-size: 20px;
+
 }
