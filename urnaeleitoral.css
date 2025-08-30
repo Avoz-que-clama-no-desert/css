@@ -57,7 +57,7 @@ marquee{
 }
 .init{
     cursor: pointer;
-    font-size: 20px;
+    font-size: 10px;
     padding: 10px;
     border-radius: 8px;
 }
@@ -79,10 +79,17 @@ marquee{
 }
 .btn{
     cursor: pointer;
+    padding: 10px;
+    border-radius: 8px;
 }
 .init{
     cursor: pointer;
+    padding: 10px;
+    border-radius: 8px;
 }
 .find{
     cursor: pointer;
+}
+.rodape{
+    display:none;
 }
