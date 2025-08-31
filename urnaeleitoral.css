@@ -13,36 +13,69 @@ marquee{
     align-items: center;
     margin-left: 30%;
     padding: 10px;
+
     
 
 }
 .foto1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
     cursor: pointer;
-    width: 180px;
-    height: 180px;
-    border-radius: 30px;
-    padding: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .foto2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
     cursor: pointer;
-    width: 180px;
-    height: 180px;
-    border-radius: 30px;
-    padding: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    margin-left: 170px;
+    margin-top: -128px;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .foto3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
     cursor: pointer;
-    width: 180px;
-    height: 180px;
-    border-radius: 30px;
-    padding: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .foto4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
     cursor: pointer;
-    width: 180px;
-    height: 180px;
-    border-radius: 30px;
-    padding: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    margin-top: -125px;
+    margin-left: 170px;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 .controle{
@@ -57,26 +90,18 @@ marquee{
 }
 .init{
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px;
     padding: 10px;
     border-radius: 8px;
 }
 .find{
+    
     cursor: pointer;
     font-size: 18px;
     padding: 10px;
     border-radius: 10px;
 }
-#chapadiv{
-    background-color: aqua;
-     margin: 30px;
-    padding: 10px;
-    height: fit-content;
-    width: fit-content;
-    text-align: center;
-    
-    
-}
+
 .btn{
     cursor: pointer;
     padding: 10px;
@@ -84,7 +109,7 @@ marquee{
 }
 .init{
     cursor: pointer;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
 }
 .find{
@@ -92,7 +117,5 @@ marquee{
 }
 .rodape{
     display:none;
-      margin: 10px;
+    margin: 10px;
 }
-
-
