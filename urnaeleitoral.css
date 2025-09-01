@@ -5,6 +5,7 @@ marquee{
     background-color: brown;
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: aliceblue;
 }
 .contener{
     display: none;
@@ -119,3 +120,4 @@ marquee{
     display:none;
     margin: 10px;
 }
+
