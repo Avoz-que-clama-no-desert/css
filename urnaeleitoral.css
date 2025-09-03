@@ -8,7 +8,7 @@ marquee{
     color: aliceblue;
 }
 .contener{
-   /* display: none;*/
+    display: none;
     width: 450px;
     height: 450px;
     align-items: center;
@@ -123,3 +123,4 @@ marquee{
     display:none;
     margin: 10px;
 }
+
